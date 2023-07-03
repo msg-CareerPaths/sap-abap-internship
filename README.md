@@ -1,2 +1,2 @@
 # sap-abap-internship
-Learning path for .msg's SAP Summer School learning program
+Learning path for .msg's SAP Summer School program
