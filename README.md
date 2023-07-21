@@ -13,11 +13,12 @@ The development platforms used in this program are:
   * DB and OS Abstraction: The SAP NetWeaver Application Server supports a variety of databases and operating systems
 - Eclipse with ABAP Development Tools for Eclipse (ADT) - which enables the performing of development tasks using the ABAP application server capabilities in an Eclipse-based IDE or on the classic ABAP Workbench and supports the Core Date Services (CDS) layer for creating and defining data models including code push-downs
 
-## Configurations
-
 Learn more:
 - [Introduction to SAP](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Presentation%201.pptx)
-- [Installation and Configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%201.pdf)
+
+## Installation and Configuration Guide
+
+[Installation and Configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%201.pdf)
 
 
 
