@@ -10,7 +10,7 @@ The development platforms used in this program will be:
   * J2EE: Support for Java 2 Platform Enterprise Edition (J2EE) for developing Java-based business applications
   * ABAP: ABAP is a programming language developed by SAP to develop business applications.
   * DB and OS Abstraction: The SAP NetWeaver Application Server supports a variety of databases and operating systems
-- Eclipse with the plugin ABAP Development Tools for Eclipse (ADT) - which enables the performing of development tasks using the ABAP application server capabilities in an Eclipse-based IDE or on the classic ABAP Workbench and supports the Core Date Services (CDS) layer for creating and defining data models including code push-downs
+- Eclipse with ABAP Development Tools for Eclipse (ADT) - which enables the performing of development tasks using the ABAP application server capabilities in an Eclipse-based IDE or on the classic ABAP Workbench and supports the Core Date Services (CDS) layer for creating and defining data models including code push-downs
 
 
 
