@@ -17,7 +17,7 @@ The development platforms used in this program are:
 
 Learn more:
 - [Introduction to SAP](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Presentation%201.pptx)
-- [Installation and configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%201.pdf)
+- [Installation and Configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%201.pdf)
 
 
 
