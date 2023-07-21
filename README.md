@@ -1,4 +1,3 @@
-# sap-abap-internship
 ## Learning path for .msg's SAP Summer School program
 
 The road-map consists of several steps. In each step, a set of theoretical concepts are explored for learning the basics of SAP technologies, supported by reference documentation, book chapters, tutorials and videos. 
