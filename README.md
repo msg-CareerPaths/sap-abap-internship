@@ -18,7 +18,7 @@ Learn more:
 
 ## Installation and Configuration Guide
 
-[Installation and Configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%201.pdf)
+[Installation and Configuration Guide](https://github.com/msg-CareerPaths/sap-abap-internship/blob/main/documents/SAP%20Summer%20School%20Exercise%200.pdf)
 
 
 
