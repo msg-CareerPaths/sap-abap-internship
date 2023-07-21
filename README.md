@@ -2,13 +2,16 @@
 # Learning path for .msg's SAP Summer School program
 
 The road-map consists of several steps. In each step, a set of theoretical concepts are explored for learning the basics of SAP technologies, supported by reference documentation, book chapters, tutorials and videos. 
+
 In the last 3 weeks of the program, an application will be built with the learned concepts and the guidance of experienced developers.
-The development and deployment platform that will be used is SAP NetWeaver. This platform supports web services, business applications and standard based development based on key technologies such as J2EE and ABAP.
 
-Later on, the CDS functionality will be available in Eclipse 
-After the introduction of CDS in SAP HANA, SAP realised CDS can be introduced with ABAP application server which will allow ABAP to benefit from the enhanced capabilities that are offered by the data definition language of CDS compared to the form based ABAP Dictionary tool. So, SAP introduced ABAP CDS views in ABAP 7.40 SP05 release. Since the ABAP Dictionary already had the capabilty of defining tables, views and data types, the natural way of introducing CDS on the ABAP application server was to add it to the ABAP Dictionary. 
+The development platforms used in this program will be:
+- SAP NetWeaver Application Server - which provides a complete development infrastructure on which you can develop, distribute, and execute platform-independent, robust, and scalable Web services and business applications.  
+  * J2EE: Support for Java 2 Platform Enterprise Edition (J2EE) for developing Java-based business applications
+  * ABAP: ABAP is a programming language developed by SAP to develop business applications.
+  * DB and OS Abstraction: The SAP NetWeaver Application Server supports a variety of databases and operating systems
+- Eclipse with the plugin ABAP Development Tools for Eclipse (ADT) - which enables the performing of development tasks using the ABAP application server capabilities in an Eclipse-based IDE or on the classic ABAP Workbench and supports the Core Date Services (CDS) layer for creating and defining data models including code push-downs
 
-The first instalment of CDS support in ABAP has been delivered with SAP NW ABAP 7.4 SP5. Because the CDS functionality is only available for ABAP in Eclipse you need the ABAP Development Tools for Eclipse (ADT) in order to create an ABAP CDS view. 
 
 
 
