@@ -4,9 +4,9 @@ The road-map consists of several steps. In each step, a set of theoretical conce
 
 In the last 3 weeks of the program, an application will be built with the learned concepts and the guidance of experienced developers.
 
-## Development Platforms
+## Development Environments
 
-The development platforms used in this program are:
+The development environments used are:
 - SAP NetWeaver Application Server - which provides a complete development infrastructure on which you can develop, distribute, and execute platform-independent, robust, and scalable Web services and business applications.  
   * J2EE: Support for Java 2 Platform Enterprise Edition (J2EE) for developing Java-based business applications
   * ABAP: ABAP is a programming language developed by SAP to develop business applications.
